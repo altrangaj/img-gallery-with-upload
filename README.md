@@ -1,5 +1,5 @@
 # The Image Gallery With Upload Feature
-Stores images to MongoDB utilizing multer. This solution is easy to extend to uploading multiple files at once. **_Todo: Navigation for overflowed images._**
+Stores images to MongoDB utilizing multer. This solution is easy to extend to uploading multiple files at once. **_Todo: elegant navigation for overflowed images. For example, using react-spring transition (no white scroll bars!)_**
 
 ## Prerequisites
 
