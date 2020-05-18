@@ -32,6 +32,6 @@ __option B__ usage in development mode:
 ```
 
 what it looks like:
-![kuvagalleria](https://raw.githubusercontent.com/altrangaj/R0314-MEAN/master/projekti3/Capture.PNG)
+![kuvagalleria](https://raw.githubusercontent.com/altrangaj/img-gallery-with-upload/master/IGCapture.PNG)
 
 #### Running sample [in Heroku](https://itemgallery.herokuapp.com/). Please note that it works with free platforms or services. With paid features, it could work faster. (MongoDB Atlas and Heroku)
